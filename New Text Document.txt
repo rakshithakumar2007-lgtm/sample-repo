@@ -1,2 +1,3 @@
 From local repo
 From global repo
+local global
